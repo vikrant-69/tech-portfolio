@@ -23,36 +23,36 @@ const projectsConfig = {
             title: 'Machine Learning',
             icon: 'fas fa-brain',
             projects: [
-                {
-                    title: 'SmartVision - Object Detection System',
-                    icon: 'fas fa-eye',
-                    description: 'Real-time object detection and classification system using YOLO v8, optimized for edge devices with 95% accuracy on custom datasets.',
-                    technologies: ['Python', 'PyTorch', 'OpenCV', 'YOLO v8'],
-                    links: {
-                        github: 'https://github.com/yourusername/smartvision',
-                        demo: 'https://your-demo-link.com'
-                    }
-                },
-                {
-                    title: 'SentimentAI - Emotion Analysis',
-                    icon: 'fas fa-comments',
-                    description: 'Advanced sentiment analysis model for social media monitoring, achieving 92% accuracy using transformer architecture and BERT.',
-                    technologies: ['Python', 'Transformers', 'BERT', 'Pandas'],
-                    links: {
-                        github: 'https://github.com/yourusername/sentimentai',
-                        demo: 'https://your-demo-link.com'
-                    }
-                },
-                {
-                    title: 'PredictiveAnalytics - Sales Forecasting',
-                    icon: 'fas fa-chart-line',
-                    description: 'Machine learning pipeline for sales prediction using ensemble methods, time series analysis, and feature engineering for retail businesses.',
-                    technologies: ['Python', 'Scikit-learn', 'XGBoost', 'Jupyter'],
-                    links: {
-                        github: 'https://github.com/yourusername/predictiveanalytics',
-                        demo: 'https://your-demo-link.com'
-                    }
-                }
+                // {
+                //     title: 'SmartVision - Object Detection System',
+                //     icon: 'fas fa-eye',
+                //     description: 'Real-time object detection and classification system using YOLO v8, optimized for edge devices with 95% accuracy on custom datasets.',
+                //     technologies: ['Python', 'PyTorch', 'OpenCV', 'YOLO v8'],
+                //     links: {
+                //         github: 'https://github.com/yourusername/smartvision',
+                //         demo: 'https://your-demo-link.com'
+                //     }
+                // },
+                // {
+                //     title: 'SentimentAI - Emotion Analysis',
+                //     icon: 'fas fa-comments',
+                //     description: 'Advanced sentiment analysis model for social media monitoring, achieving 92% accuracy using transformer architecture and BERT.',
+                //     technologies: ['Python', 'Transformers', 'BERT', 'Pandas'],
+                //     links: {
+                //         github: 'https://github.com/yourusername/sentimentai',
+                //         demo: 'https://your-demo-link.com'
+                //     }
+                // },
+                // {
+                //     title: 'PredictiveAnalytics - Sales Forecasting',
+                //     icon: 'fas fa-chart-line',
+                //     description: 'Machine learning pipeline for sales prediction using ensemble methods, time series analysis, and feature engineering for retail businesses.',
+                //     technologies: ['Python', 'Scikit-learn', 'XGBoost', 'Jupyter'],
+                //     links: {
+                //         github: 'https://github.com/yourusername/predictiveanalytics',
+                //         demo: 'https://your-demo-link.com'
+                //     }
+                // }
             ]
         }
     ]
