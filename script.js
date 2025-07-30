@@ -8,7 +8,7 @@ const projectsConfig = {
             projects: [
                 {
                     title: 'HireInn - Job Search App',
-                    icon: 'fa-magnifying-glass',
+                    icon: 'fas fa-magnifying-glass',
                     description: "A Job search app integrated with AI agent. Agent will modify the user's resume based on the Job description and answer any job related queries.",
                     technologies: ['Kotlin', 'Jetpack Compose', 'Firebase', 'Google Cloud', 'Python', 'FastAPI'],
                     links: {
